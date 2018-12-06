@@ -1,0 +1,104 @@
+#header{
+height:200px;
+width:950px;
+background:url('gorod2.jpg');
+}
+#menu{
+height:100px;
+width:950px;
+background-color:grey
+}
+#text{
+background-color:#dddddd;
+color:#777;
+width:600px;
+padding:30px;
+float:left;
+}
+#footer{
+height:200px;
+width:950px;
+background-color:grey;
+font-size:8px;
+color:black;
+position: absolute;
+}
+#button{
+background-color:grey;
+border: none;
+padding:32px;
+text-align: center;
+font-size: 25px;
+height:100px;
+width:300px;
+}
+#button2{
+background-color:grey;
+border: none;
+padding:32px;
+text-align: center;
+font-size: 25px;
+height:100px;
+width:340px;
+}
+#button3{
+background-color:grey;
+border: none;
+padding:32px;
+text-align: center;
+font-size: 25px;
+height:100px;
+width:300px;
+float:right;
+}
+#reklama{
+float:right;
+width:290px;
+height:200px;
+font-size:10px;
+color:grey;
+}
+#centr{
+width:950px;
+height:550px;
+}
+#text2{
+float:left;
+position:absolute;
+bottom:0;
+}
+#button4{
+background-color:grey;
+border: none;
+padding:32px;
+text-align: center;
+font-size: 10px;
+height:100px;
+width:150px;
+}
+#button5{
+background-color:grey;
+border: none;
+padding:32px;
+text-align: center;
+font-size: 10px;
+height:100px;
+width:200px;
+}
+#button6{
+background-color:grey;
+border: none;
+padding:32px;
+text-align: center;
+font-size: 10px;
+height:100px;
+width:150px;
+}
+#button7{
+border: none;
+font-size: 10px;
+height:100px;
+width:100px;
+float:right;
+background-color:white;
+}
